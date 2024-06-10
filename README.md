@@ -1,15 +1,3 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+U+L+A+I+M+A+N++L" />
-</p>
-<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
-
-![fisabiliyusri's card name](https://cardivo.vercel.app/api?name=SULAIMAN%20L&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/fisabiliyusri/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=/&github=fisabiliyusri&pattern=leaf&colorPattern=%23eaeaea)
-
-
-<h2 align="center">
-Auto Script Install All VPN Service
-Mod By SL
-<img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
 </p> 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -46,9 +34,6 @@ atau
 su
 ```
 
-### Link Video Tutorial Cara Install
-```html
-https://www.facebook.com/100031931503057/posts/628374871570224/?app=fbl
 ```
 
 ## INFO TAMBAHAN , SILAHKAN DI BACA 
@@ -393,6 +378,6 @@ reboot
 </h2>
 </div>
 <h2 align="center">
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisabiliyusri&layout=compact&theme=dark">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=fisabiliyusri&count_private=true&show_icons=true&theme=dark">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeMods&layout=compact&theme=dark">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=ReeMods&count_private=true&show_icons=true&theme=dark">
 <h2 align="center">
